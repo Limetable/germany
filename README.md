@@ -5,15 +5,15 @@
 [![Publish Python 🐍 distributions 📦 to PyPI and TestPyPI](https://github.com/bundesAPI/deutschland/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/bundesAPI/deutschland/actions/workflows/publish.yml)
 [![Run Python 🐍 tests](https://github.com/bundesAPI/deutschland/actions/workflows/runtests.yml/badge.svg?branch=main)](https://github.com/bundesAPI/deutschland/actions/workflows/runtests.yml)
 
-# Deutschland
-A python package that gives you easy access to the most valuable datasets of Germany.
+# Germany
+A Python package that gives you easy access to the most valuable datasets of Germany.
 
 ## Installation
 ```bash
 pip install deutschland
 ```
 
-### Supported Python Versions
+### Supported Python versions
 ```
 3.8 - 3.12
 ```
