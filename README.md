@@ -47,7 +47,7 @@ The data is provided by the [AdV SmartMapping](https://dev.adv-smart.de/). The t
 
 ## Company Data
 
-### Bundesanzeiger
+### Federal Gazette (Bundesanzeiger)
 Get financial reports for all german companies that are reporting to Bundesanzeiger.
 More
 ```python
@@ -61,13 +61,13 @@ print(data.keys())
 ```
 *Big thanks to [Nico Duldhardt](https://github.com/2start) and [Friedrich Eichenroth](https://github.com/eichenroth), who [supported this implementation with their machine learning model](https://av.tib.eu/media/52366).*
 
-### Handelsregister
+### Commercial register 
 
-The code for the Handelsregister moved to this [repo](https://github.com/bundesAPI/handelsregister).
+The code for the Commercial register moved to this [repo](https://github.com/bundesAPI/handelsregister).
 
 ## Consumer Protection Data
 
-### Lebensmittelwarnung
+### Food safety warning (Lebensmittelwarnung)
 Get current product warnings provided by the german federal portal lebensmittelwarnung.de.
 
 ```python
