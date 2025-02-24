@@ -127,33 +127,33 @@ Not available for now due to changes in the API.
 
 ## Auto-Generated API-Clients
 
-### bundesrat
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/bundesrat/README.md)
-### bundestag
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/bundestag/README.md)
+### Federal Council
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/bundesrat/README.md)
+### federal parliament(Bundestag)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/bundestag/README.md)
 ### destatis
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/destatis/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/destatis/README.md)
 ### dwd
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/dwd/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/dwd/README.md)
 ### interpol
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/interpol/README.md)
-### jobsuche
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/jobsuche/README.md)
-### ladestationen
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/ladestationen/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/interpol/README.md)
+### jobsearch
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/jobsuche/README.md)
+### charging stations
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/ladestationen/README.md)
 ### mudab
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/mudab/README.md)
-### nina
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/nina/README.md)
-### polizei_brandenburg
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/polizei_brandenburg/README.md)
-### risikogebiete
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/risikogebiete/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/mudab/README.md)
+### Nina (also known as modular warning system(MoWaS))
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/nina/README.md)
+### police_brandenburg
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/polizei_brandenburg/README.md)
+### risk_areas
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/risikogebiete/README.md)
 ### smard
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/smard/README.md)
-### strahlenschutz
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/strahlenschutz/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/smard/README.md)
+### radiation_protection
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/strahlenschutz/README.md)
 ### travelwarning
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/travelwarning/README.md)
-### zoll
-For the detailed documentation of this API see [here](https://github.com/bundesAPI/deutschland/blob/main/docs/zoll/README.md)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/travelwarning/README.md)
+### customs(zoll)
+For the detailed documentation of this API see [here](https://github.com/Limetable/germany/blob/main/docs/zoll/README.md)
